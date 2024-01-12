@@ -2,6 +2,8 @@
 
 Visualizing travel salesman problem in C++ with SFML.
 
+https://youtu.be/nqyQTMZwQA8
+
 ### References
 
 https://www.youtube.com/watch?v=BAejnwN4Ccw

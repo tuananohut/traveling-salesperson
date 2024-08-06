@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\tuana\Desktop\PROJELER\C++ PROJELER\Test Project\Traveling Salesperson\Traveling Salesperson\src\main.cpp(59,54): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
-C:\Users\tuana\Desktop\PROJELER\C++ PROJELER\Test Project\Traveling Salesperson\Traveling Salesperson\src\main.cpp(60,54): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
-C:\Users\tuana\Desktop\PROJELER\C++ PROJELER\Test Project\Traveling Salesperson\Traveling Salesperson\src\main.cpp(93,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\tuana\Desktop\PROJELER\C++ PROJELER\Test Project\Traveling Salesperson\Traveling Salesperson\src\main.cpp(93,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  Rose.vcxproj -> C:\Users\tuana\Desktop\PROJELER\C++ PROJELER\Test Project\Traveling Salesperson\Traveling Salesperson\x64\Debug\Traveling Salesperson.exe

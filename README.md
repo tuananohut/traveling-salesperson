@@ -40,7 +40,7 @@ This project requires **Visual Studio 17 2022** and **CMake 3.8+**.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/tuananohut/traveling-salesperson.git
+    git clone https://github.com/tuananohut/Traveling-Salesperson-Problem-Visualization.git
     ```
 2.  **Create and Navigate to the Build Directory:**
     ```bash
